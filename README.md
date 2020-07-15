@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Roxerg/Roxerg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year Computer Science student @ University of Edinburgh
 
-Here are some ideas to get you started:
+❤️ Random Technologies I worked with: Python, Cython, Django, Flask, C++, C#, Haskell, JavaScrip, React, Dart, Flutter, Redis, Unity, Godot, Arduino, Selenium, Java, JUnit, AWS, Docker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a [blog][4]
+
+🔭 I’m currently working on a Flutter app  
+🌱 I’m currently learning Dart, JavaScript  
+💬 Ask me about game design  
+🚫 Don't ask me about AWS  
+📫 How to reach me: [email][1], [twitter][3], [linkedin][2]  
+😄 Pronouns: he/him  
+
+  
+<br>
+
+
+~ 🦉 The Owls Are Not What They Seem 🦉~
+
+[1]: <mailto:rgudav@gmail.com> "email"
+[2]: <https://www.linkedin.com/in/rokas-gudavi%C4%8Dius-28250ab6/> "linkedin"
+[3]: <https://twitter.com/roxerg1/> "twitter"
+[4]: <https://roxerg.github.io/blog> "blog"
