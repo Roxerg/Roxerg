@@ -5,8 +5,8 @@
 
 I have a [blog][4]
 
-🔭 I’m currently working on a Flutter app  
-🌱 I’m currently learning Dart, JavaScript  
+🔭 I’m currently working on my dissertation 
+🌱 I’m currently learning JavaScript
 💬 Ask me about game design  
 🚫 Don't ask me about AWS  
 📫 How to reach me: [email][1], [twitter][3], [linkedin][2]  
