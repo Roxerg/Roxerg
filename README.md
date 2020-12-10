@@ -5,7 +5,7 @@
 
 I have a [blog][4]
 
-🔭 I’m currently working on my dissertation 
+🔭 I’m currently working on my dissertation <br>
 🌱 I’m currently learning JavaScript
 💬 Ask me about game design  
 🚫 Don't ask me about AWS  
