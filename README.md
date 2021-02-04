@@ -5,10 +5,8 @@
 
 I have a [blog][4]
 
-🔭 I’m currently working on my dissertation <br>
-🌱 I’m currently learning JavaScript <br>
-💬 Ask me about game design  
-🚫 Don't ask me about AWS  
+🌱 I’m currently working on my dissertation <br>
+🔭 I’m currently looking for work <br>
 📫 How to reach me: [email][1], [twitter][3], [linkedin][2]  
 😄 Pronouns: he/him  
 
