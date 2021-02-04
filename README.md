@@ -3,7 +3,7 @@
 
 ❤️ Random Technologies I worked with: Python, Cython, Django, Flask, C++, C#, Haskell, JavaScrip, React, Dart, Flutter, Redis, Unity, Godot, Arduino, Selenium, Java, JUnit, AWS, Docker 
 
-I have a [blog][4]
+📖 I have a [blog][4]
 
 🌱 I’m currently working on my dissertation <br>
 🔭 I’m currently looking for work <br>
