@@ -1,5 +1,5 @@
 
-🎓 4th Year Computer Science student @ University of Edinburgh
+Dev person 
 
 ❤️ Random Technologies I worked with: Python, Cython, Django, Flask, C++, C#, Haskell, JavaScrip, React, Dart, Flutter, Redis, Unity, Godot, Arduino, Selenium, Java, JUnit, AWS, Docker 
 
