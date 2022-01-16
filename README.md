@@ -6,7 +6,6 @@ Dev person
 📖 I have a [blog][4]
 
 🧑‍🎓 I recently finished uni! <br>
-💼 I’m currently not looking for work <br>
 📫 How to reach me: [email][1], [twitter][3], [linkedin][2]  
 😄 Pronouns: he/him  
 
