@@ -1,7 +1,7 @@
 
 Dev person 
 
-❤️ Random Technologies I worked with: Python, Cython, Django, Flask, C++, C#, Haskell, JavaScrip, React, Dart, Flutter, Redis, Unity, Godot, Arduino, Selenium, Java, JUnit, AWS, Docker 
+❤️ Random Technologies I worked with: Vue, Node.JS, Python, Cython, Django, Flask, C++, C#, Haskell, TypeScript, React, Dart, Flutter, Redis, Unity, Godot, Arduino, Selenium, Java, JUnit, AWS, Docker 
 
 📖 I have a [blog][4]
 
