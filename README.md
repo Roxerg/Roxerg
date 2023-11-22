@@ -4,8 +4,6 @@ Dev person
 ❤️ Random Technologies I worked with: Vue, Node.JS, Python, Cython, Django, Flask, C++, C#, Haskell, TypeScript, React, Dart, Flutter, Redis, Unity, Godot, Arduino, Selenium, Java, JUnit, AWS, Docker 
 
 📖 I have a [blog][4]
-
-🧑‍🎓 I recently finished uni! <br>
 📫 How to reach me: [email][1], [twitter][3], [linkedin][2]  
 😄 Pronouns: he/him  
 
